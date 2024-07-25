@@ -1455,6 +1455,7 @@ JFain	Discord:<@!702275233125630042>
 		Ponyta Galar_Alternate Shiny: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Farfetch_d Galar: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Strike,Swing,Walk,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Flareon: EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Dratini: EventSleep,Wake,Tumble,Pain,Float,Laying,TumbleBack
 		Mewtwo: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hover,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Punch,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Mewtwo Shiny: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Mewtwo Mega_Y: Attack,Charge,Double,Hop,Hurt,Idle,Pose,Rotate,Shoot,Sleep,Swing,Walk
@@ -1776,6 +1777,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Scyther Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ditto Altcolor: Normal,Sad,Special3
 		Kabuto: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Kabutops: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Kabutops Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Aerodactyl Altcolor: Normal
 		Moltres Alternate: Normal
 		Moltres Alternate Shiny: Normal
@@ -1784,6 +1787,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Mew: Happy,Dizzy
 		Mew Shiny: Happy,Dizzy
 		Typhlosion Altcolor: Normal
+		Noctowl: Happy,Pain,Determined
 		Skiploom Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sunflora Altcolor: Normal,Joyous,Special1,Happy,Pain,Surprised,Stunned,Angry,Teary-Eyed,Worried,Determined
 		Quagsire Altcolor: Normal
@@ -2270,7 +2274,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Aerodactyl Mega: Normal
 		Mewtwo: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Mewtwo Mega_X: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Mewtwo Mega_X Shiny: Normal
+		Mewtwo Mega_X Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mewtwo Mega_Y: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Mew: Shouting
 		Mew Shiny: Shouting
@@ -2355,7 +2359,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Luxio Shiny Female: Normal
 		Luxio Female: Normal
 		Luxray Shiny Female: Normal
-		Luxray Female: Normal
+		Luxray Female: Normal,Happy,Stunned,Determined
 		Roserade: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Special2,Angry^,Teary-Eyed^,Dizzy^,Special2^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Roserade Shiny: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Special2,Angry^,Teary-Eyed^,Dizzy^,Special2^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Bastiodon: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -2695,6 +2699,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Missingno_ Mikon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Pikachu Libre: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 		Raichu Alola: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,Pose
+		Sandslash Alola: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Nidorina Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop
 		Vulpix Alola: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Vulpix Alola Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -6555,7 +6560,6 @@ Tacocoa	Discord:<@!234720295292895232>
 		Porygon Shiny: Normal,Pain,Surprised
 		Omastar Shiny: Normal
 		Kabuto Shiny: Normal
-		Kabutops Shiny: Normal
 		Aerodactyl Shiny: Normal
 		Zapdos Shiny: Normal
 		Moltres Shiny: Normal
@@ -7377,6 +7381,7 @@ Limomon	Discord:<@!360948625901223950>	Contact:https://twitter.com/TheLimomon
 		Tauros Paldea_Blaze: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
 		Elgyem: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Elgyem Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Wiglett: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Wiggle
 
 RaoKurai	Discord:<@!173896352554549248>	Contact:https://twitter.com/RaoKurai
 	Portrait:
@@ -7977,6 +7982,7 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Crocalor: "
 		Skeledirge: "
 		Scovillain: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Swing,Double,Rotate,Hop
+		Iron_Hands: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Arctibax: "
 		Baxcalibur: "
 		Ogerpon Teal_Mask: "
