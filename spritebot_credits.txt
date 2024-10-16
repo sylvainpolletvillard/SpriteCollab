@@ -27,7 +27,6 @@ Audino	Discord:<@!117780585635643396>	Contact:https://github.com/audinowho
 		Jynx Shiny: Walk,Attack,Slap,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Croconaw Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Feraligatr Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Sneasel Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Fainted,Special0,Special1
 		Lugia Shiny: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
 		Beldum Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Metang Shiny: Walk,Attack,MultiScratch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -1470,6 +1469,7 @@ JFain	Discord:<@!702275233125630042>
 		Scizor Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,SpAttack,Swing,Double,Rotate,Hop,Fainted,StandingUp
 		Sneasel: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Fainted,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,MultiScratch,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Sneasel Starter: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Sneasel Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Twirl,Swing,Double,Rotate,Hop,Eat,Tumble,Pose,Pull,Pain,DeepBreath,Nod,Sit,LookUp,Sink,Trip,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Fainted,Special0,Special1
 		Corsola Galar: Walk,Attack,Strike,Shoot,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Houndour: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Larvitar: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
@@ -1480,6 +1480,7 @@ JFain	Discord:<@!702275233125630042>
 		Electrike: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Electrike Shiny: Shock,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Roselia: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Cradily: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Duskull: Pose
 		Absol: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Jump,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,Rotate,Shoot,Sink,Sit,Sleep,SpAttack,Special0,Special1,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Absol Shiny: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
@@ -1621,15 +1622,12 @@ Emboarger	Discord:<@!237286997645983744>
 		Electivire Shiny: Determined,Happy
 		Palkia Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Darkrai Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special0^,Special1,Special1^,Special2,Special2^,Special3,Special3^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
-		Pansage: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Pansage Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Venipede: Normal
 		Ducklett: Angry,Crying,Dizzy,Pain,Shouting,Surprised,Worried
 		Vanillish: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Vanilluxe: Normal,Normal^
 		Yveltal: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried,Special2
 		Hoopa Unbound_Alternate: Normal
-		Volcanion: Normal
 		Brionne Shiny: Normal,Joyous
 		Ribombee Shiny: Normal,Inspired
 		Lycanroc Midnight Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
@@ -1745,6 +1743,8 @@ Emboarger	Discord:<@!237286997645983744>
 
 Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 	Portrait:
+		Venusaur: Happy,Pain,Angry,Worried
+		Venusaur Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Charmander Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Charizard Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Ekans Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -1752,6 +1752,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Raichu: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Raichu Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Raichu Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Raichu Alternate: Normal
+		Raichu Alternate Shiny: Normal
 		Nidoking Altcolor: Normal,Surprised
 		Wigglytuff Altcolor: Normal,Sad,Special1,Happy,Crying,Surprised,Teary-Eyed,Special2,Worried,Special0,Special3
 		Paras: Happy,Pain,Dizzy
@@ -1773,6 +1775,12 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Hitmonchan Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Hitmonchan Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Scyther Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Gyarados: Stunned
+		Gyarados Female: Stunned
+		Gyarados Shiny: Normal,Stunned
+		Gyarados Shiny Female: Normal,Stunned
+		Gyarados Altcolor: Normal,Stunned
+		Gyarados Altcolor Female: Normal,Stunned
 		Ditto Altcolor: Normal,Sad,Special3
 		Kabuto: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kabutops: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -1801,6 +1809,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Mantine Shiny: Normal,Normal^
 		Kingdra Altcolor: Normal
 		Donphan: Sad,Happy,Crying,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+		Stantler: Happy
 		Stantler Shiny: Normal
 		Elekid Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Entei Shiny: Normal
@@ -1844,6 +1853,10 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Riolu Alternate: Normal,Teary-Eyed,Surprised
 		Riolu Alternate Shiny: Normal,Teary-Eyed,Surprised
 		Hippowdon Shiny Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
+		Rhyperior: Shouting
+		Rhyperior Shiny: Shouting
+		Rhyperior Shiny Female: Shouting
+		Rhyperior Female: Shouting
 		Magmortar: Sad,Joyous,Special1,Happy,Inspired,Shouting,Stunned,Angry,Teary-Eyed,Worried,Determined,Special0
 		Magmortar Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 		Magmortar Starter Shiny: Normal,Surprised
@@ -1857,7 +1870,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Porygon_Z: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Porygon_Z Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Porygon_Z Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Gallade Altcolor: Normal
+		Gallade Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Probopass: Pain
 		Probopass Shiny: Normal,Pain
 		Dusknoir: Sad,Joyous,Special1,Happy,Crying,Inspired,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
@@ -1871,7 +1884,10 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Giratina: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Giratina Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Giratina Altcolor: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+		Shaymin Altcolor: Normal,Happy,Inspired,Pain,Shouting,Surprised,Angry,Worried,Determined,Special0
 		Emboar: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Simisage: Normal
+		Simisage Shiny: Normal
 		Gigalith: Normal
 		Gigalith Shiny: Normal
 		Timburr: Normal
@@ -1896,8 +1912,12 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Krookodile Shiny: Normal,Special0
 		Darmanitan: Normal
 		Darmanitan Shiny: Normal
+		Darmanitan Zen: Normal
+		Darmanitan Zen Shiny: Normal
 		Scraggy Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sigilyph: Normal
+		Zorua Alternate2: Normal,Normal^,Happy,Happy^
+		Zorua Alternate2 Shiny: Normal,Normal^,Happy,Happy^
 		Swanna: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Swanna Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Foongus: Normal
@@ -1973,6 +1993,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Meltan Shiny: Normal,Special0,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Melmetal: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Melmetal Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+		Melmetal Gigantamax: Normal,Normal^
+		Melmetal Gigantamax Shiny: Normal,Normal^
 		Grookey: Normal,Happy
 		Grookey Shiny: Normal,Happy
 		Rillaboom: Normal
@@ -2067,6 +2089,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Kingambit Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Great_Tusk Shiny: Normal
 		Scream_Tail: Normal,Special0
+		Scream_Tail Shiny: Normal,Special0
 		Iron_Bundle: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Iron_Hands: Normal,Sad,Special1,Happy,Teary-Eyed,Determined
 		Iron_Hands Shiny: Normal,Sad,Special1,Happy,Teary-Eyed,Determined
@@ -2150,6 +2173,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Giratina Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Giratina Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Giratina Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
+		Shaymin Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Snivy: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Snivy Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Emboar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
@@ -2238,7 +2262,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Pikachu Ph_D: Normal,Normal^
 		Pikachu Libre: Normal
 		Pikachu Libre Shiny: Normal
-		Nidoran_F Alternate: Normal,Shouting
+		Nidoran_F Alternate: Normal,Shouting,Joyous,Special1,Happy,Crying,Surprised,Angry
 		Nidorina Altcolor: Normal
 		Vulpix Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Vulpix Alola: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -2331,6 +2355,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Grovyle Starter: Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sceptile: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Blaziken Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Blaziken Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lombre: Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Teary-Eyed^,Worried,Worried^
 		Nuzleaf Female: Normal
 		Pelipper: Surprised
@@ -2761,6 +2786,8 @@ baronessfaron	Discord:<@!544245909639397378>
 		Smoochum Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Treecko Alternate: Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Blaziken Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Kick,Slam,Swing,Double,Rotate,Hop
+		Linoone Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Linoone Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Gardevoir Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,SpAttack,Swing,Double,Rotate,Hop
 		Gardevoir Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,SpAttack,Swing,Double,Rotate,Hop
 		Banette Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
@@ -2853,6 +2880,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Zoroark: Walk,Attack,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Zoroark Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,Strike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Minccino: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake,Appeal,Dance,Sing
+		Cinccino: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,TailWhip,Swing,Double,Rotate,Hop,Eat
 		Gothita: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Chop,Swing,Double,Rotate,Hop
 		Gothorita: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Swing,Double,Rotate,Hop,Pose
 		Gothitelle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,SpAttack,Swing,Double,Rotate,Hop
@@ -2895,6 +2923,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Meloetta Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
 		Meloetta Pirouette: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,SpAttack,Swing,Double,Rotate,Hop
 		Quilladin: Idle,Rotate
+		Braixen: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Bunnelby: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,Swing,Double,Rotate,Hop,QuickStrike
 		Bunnelby Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,Swing,Double,Rotate,Hop,QuickStrike
 		Vivillon Polar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
@@ -2909,6 +2938,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Floette White: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,Eat
 		Florges: Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Skiddo Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Pancham: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Furfrou: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop
 		Furfrou Kabuki: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop
 		Spritzee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
@@ -2954,8 +2984,9 @@ baronessfaron	Discord:<@!544245909639397378>
 		Tsareena: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Kick,Swing,Double,Rotate,Hop
 		Comfey: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Comfey Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
-		Palossand: Idle,Walk,Swing,Double,Rotate
-		Palossand Shiny: Idle,Walk,Swing,Double,Rotate
+		Passimian: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Palossand: Idle,Walk,Swing,Double,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Hop
+		Palossand Shiny: Idle,Walk,Swing,Double,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Hop
 		Minior: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Mimikyu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Mimikyu Busted: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -2987,6 +3018,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Grimmsnarl Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Sirfetch_d: Idle,Walk,Swing,Double,Rotate
 		Sirfetch_d Shiny: Idle,Walk,Swing,Double,Rotate
+		Alcremie Gigantamax: Idle,Rotate
 		Stonjourner: Idle,Walk,Attack,Strike,Shake,Dance,Double,Rotate
 		Eiscue: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop,Hover
 		Dracovish: Idle,Walk,Swing,Double,Rotate
@@ -2998,6 +3030,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Ursaluna: Idle,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Hop
 		Enamorus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Enamorus Therian: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Spidops: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Pawmot: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 		Tandemaus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Tandemaus Shirt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
@@ -3142,7 +3175,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Bombirdier Shiny: Normal
 		Orthworm Shiny: Normal
 		Annihilape Shiny: Normal
-		Scream_Tail Shiny: Normal
 		Flutter_Mane Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Slither_Wing Shiny: Normal
 		Iron_Treads Shiny: Normal
@@ -3410,6 +3442,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Beartic Shiny: Normal
 		Shelmet: Normal
 		Shelmet Shiny: Normal
+		Boltund: Joyous
 		Cufant: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Bulbasaur Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -3467,6 +3500,8 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Bonsly Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Happiny Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Appeal,Dance,Swing,Double,Rotate,Hop
 		Mantyke Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
+		Durant Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Twirl,Swing,Double,Rotate,Hop
+		Dipplin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Appeal,Swing,Double,Rotate,Hop
 
 SilverDeoxys563	Discord:<@!204460364023201793>	Contact:https://www.reddit.com/user/SilverDeoxys563
 	Portrait:
@@ -3567,8 +3602,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Zubat Alternate Shiny: Normal,Happy
 		Zubat Alternate Shiny Female: Normal,Happy
 		Zubat Alternate Female: Normal,Happy
-		Venonat Altcolor: Normal
-		Venonat Altcolor Shiny: Normal
+		Venonat Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Venonat Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meowth Gigantamax: Normal,Normal^
 		Meowth Gigantamax Shiny: Normal,Normal^
 		Persian: Joyous,Happy,Crying,Inspired,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -3649,6 +3684,9 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tauros Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Tauros Paldea: Normal
 		Tauros Paldea Shiny: Normal
+		Tauros Paldea_Blaze Shiny: Normal
+		Tauros Paldea_Aqua: Normal
+		Tauros Paldea_Aqua Shiny: Normal
 		Tauros Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Magikarp Altcolor: Normal
 		Magikarp Altcolor Female: Normal
@@ -3678,6 +3716,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Spinarak Shiny: Normal
 		Spinarak Altcolor: Normal
 		Spinarak Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Ariados Altcolor: Normal
 		Crobat Shiny: Normal
 		Crobat Altcolor: Normal
 		Crobat Altcolor Shiny: Normal
@@ -3912,7 +3951,6 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sealeo Shiny: Normal
 		Sealeo Altcolor: Normal
 		Sealeo Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Walrein Altcolor: Normal
 		Huntail: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Huntail Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Huntail Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -4076,6 +4114,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Liepard Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Pansear: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Normal^,Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
 		Pansear Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
+		Simisear: Normal,Normal^
+		Simisear Shiny: Normal,Normal^
 		Panpour: Normal,Joyous
 		Panpour Shiny: Normal,Joyous
 		Blitzle: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -4232,6 +4272,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Skiddo Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Pancham: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Pancham Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
+		Furfrou Heart: Normal
+		Furfrou Heart Shiny: Normal
 		Furfrou Debutante: Normal,Normal^
 		Furfrou Debutante Shiny: Normal,Normal^
 		Furfrou Matron: Normal
@@ -4289,8 +4331,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Lurantis Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Morelull: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
 		Morelull Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
-		Shiinotic: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned,Special0
-		Shiinotic Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned,Special0
+		Shiinotic: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned,Special0,Special2
+		Shiinotic Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned,Special0,Special2
 		Salazzle Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
 		Comfey: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Comfey Shiny: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
@@ -4387,6 +4429,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Chewtle: "
 		Drednaw: Normal
 		Drednaw Shiny: Normal
+		Boltund: Normal,Happy,Inspired,Stunned,Teary-Eyed,Worried
+		Boltund Shiny: Normal,Happy,Inspired,Stunned,Teary-Eyed,Worried,Joyous
 		Carkol: Normal
 		Carkol Shiny: Normal
 		Coalossal: Normal
@@ -4596,12 +4640,12 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Cetoddle Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cetitan: Normal
 		Cetitan Shiny: Normal
-		Tatsugiri: Normal,Special1,Determined
-		Tatsugiri Shiny: Normal,Special1,Determined
-		Tatsugiri Stretchy: Normal,Special1
-		Tatsugiri Stretchy Shiny: Normal,Special1
-		Tatsugiri Droopy: Normal,Special1
-		Tatsugiri Droopy Shiny: Normal,Special1
+		Tatsugiri: Normal,Special1,Determined,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Special0
+		Tatsugiri Shiny: Normal,Special1,Determined,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Special0
+		Tatsugiri Stretchy: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Tatsugiri Stretchy Shiny: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Tatsugiri Droopy: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Tatsugiri Droopy Shiny: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Clodsire: Normal,Joyous
 		Clodsire Shiny: Normal,Joyous
 		Farigiraf: Normal,Special0
@@ -4640,8 +4684,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Walking_Wake Shiny: Normal
 		Iron_Leaves: Normal
 		Iron_Leaves Shiny: Normal
-		Dipplin: Normal
-		Dipplin Shiny: Normal
+		Dipplin: Normal,Sigh,Pain
+		Dipplin Shiny: Normal,Sigh,Pain
 		Poltchageist: Normal,Normal^
 		Poltchageist Shiny: Normal,Normal^
 		Sinistcha: Normal,Normal^
@@ -4772,6 +4816,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Ledyba Altcolor Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Ledian Altcolor Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Spinarak Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Ariados Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Crobat Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Crobat Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Igglybuff Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sing,Withdraw,Swing,Double,Rotate,Hop
@@ -4897,7 +4942,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sealeo Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Sealeo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Sealeo Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
-		Walrein Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
+		Walrein Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Salamence: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Salamence Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Salamence Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -4975,6 +5020,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Mamoswine Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,Special0,Special1
 		Mamoswine Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Probopass Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
+		Dialga Origin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
+		Palkia Origin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Giratina Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Giratina Origin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Scratch,Swing,Double,Rotate,Hop
 		Giratina Origin_Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Scratch,Swing,Double,Rotate,Hop
@@ -5007,21 +5054,23 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Jellicent Shiny Female: Idle,Walk,Sleep,Swing,Rotate
 		Ferroseed: Special0
 		Ferroseed Shiny: Special0
-		Litwick: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack
-		Litwick Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack
+		Litwick: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack,"
+		Litwick Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack,"
 		Stunfisk: Idle,Rotate
 		Stunfisk Shiny: Idle,Rotate
 		Bisharp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Bisharp Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Terrakion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Cringe,Fainted,Special0,Special1
 		Terrakion Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Cringe,Fainted,Special0,Special1
+		Kyurem: Idle,Walk,Rotate
 		Meloetta Pirouette Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,SpAttack,Swing,Double,Rotate,Hop
 		Chespin: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Chespin Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Quilladin Shiny: Idle,Rotate
 		Fennekin: Attack,Charge,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Trip,Tumble,TumbleBack,Wake,Walk
 		Fennekin Shiny: Attack,Charge,Double,EventSleep,Float,Hop,Hurt,Idle,Laying,Rotate,Shoot,Sleep,Swing,Wake,Walk,Cringe,DeepBreath,Eat,Faint,Head,HitGround,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack
-		Braixen: Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Braixen Shiny: Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Braixen: Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Sink,Head,LostBalance
+		Braixen Shiny: Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Delphox: Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Delphox Shiny: Walk,Attack,Strike,Twirl,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Froakie: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
@@ -5110,6 +5159,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Corvisquire Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Wooloo: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Stomp,Swing,Walk
 		Wooloo Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Stomp,Swing,Walk
+		Chewtle: Idle,Walk,Charge,Swing,Double,Rotate
+		Chewtle Shiny: Idle,Walk,Charge,Swing,Double,Rotate
 		Applin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Special0,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Applin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Special0,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Applin No_Apple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -5204,6 +5255,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Morpeko Hangry Shiny: Idle,Walk,Swing,Double,Rotate,Hop,Special0,Sleep,Hurt
 		Copperajah: Idle,Walk,Rotate
 		Copperajah Shiny: Idle,Walk,Rotate
+		Arctozolt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Dracovish Shiny: Idle,Walk,Swing,Double,Rotate
 		Dragapult: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dragapult Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -5226,6 +5278,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tinkaton: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Float,Laying,Cringe
 		Tinkaton Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Float,Laying,Cringe
 		Slither_Wing Shiny: Idle,Rotate
+		Frigibax Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Arctibax Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
 		Iron_Valiant: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
 		Iron_Valiant Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
@@ -5443,7 +5496,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Ludicolo Shiny Female: Normal
 		Seedot Shiny: Angry,Dizzy,Happy,Inspired,Joyous,Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Worried,Determined,Special0
 		Shiftry Shiny: Surprised,Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0,Pain,Worried
-		Taillow Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried,Normal
 		Pelipper Shiny: Normal
 		Ralts Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ralts Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -5563,8 +5615,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Emboar Shiny: Normal,Happy,Sad
 		Watchog Shiny: Normal
 		Stoutland Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined
-		Simisage Shiny: Normal
-		Simisear Shiny: Normal,Normal^
 		Palpitoad Shiny: Normal
 		Seismitoad Shiny: Normal
 		Sandile Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
@@ -5921,7 +5971,6 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 Moo	Discord:<@!276949114212712449>	Contact:https://twitter.com/MoonMoonMemes
 	Portrait:
 		Bulbasaur Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Venusaur Shiny: Normal
 		Charmander Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Caterpie Shiny: Inspired,Normal,Teary-Eyed
 		Pidgeotto Shiny: Normal
@@ -6257,7 +6306,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Grimer Shiny: Normal,Pain,Surprised
 		Shellder: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined
 		Shellder Shiny: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined
-		Drowzee: Determined,Happy,Normal,Sad,Sigh,Special3,Stunned,Teary-Eyed
+		Drowzee: Determined,Happy,Normal,Sad,Sigh,Special3,Stunned,Teary-Eyed,Joyous
 		Hypno: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Koffing: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Koffing Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
@@ -6299,7 +6348,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Sawk: Normal
 		Sawk Shiny: Normal
 		Sandile Shiny: Normal
-		Darmanitan Zen Shiny: Normal
 		Maractus Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Scrafty Shiny: Normal
 		Trubbish Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried,Special0
@@ -6348,7 +6396,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Skwovet Shiny: Normal,Special0
 		Corviknight Shiny: Normal
 		Chewtle Shiny: Normal
-		Boltund Shiny: Normal
 		Flapple Shiny: Normal
 		Arrokuda: Normal
 		Arrokuda Shiny: Normal
@@ -6560,6 +6607,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Absol Starter Shiny: SpAttack
 		Absol Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Heatran Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop
+		Samurott Hisui Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Zoroark Hisui: Eat,Pull,Head,Cringe
 		Zoroark Hisui Shiny: Eat,Pull,Head,Cringe
 		Haxorus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Slice,Swing,Double,Rotate,Hop
@@ -6836,7 +6884,6 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Weavile Altcolor Shiny: Angry,Normal,Pain,Surprised
 		Electivire Shiny: Normal
 		Magmortar Shiny: Normal,Sigh,Surprised
-		Yanmega Shiny: Normal
 		Porygon_Z Shiny: Normal
 		Regigigas Shiny: Normal
 		Darkrai Shiny: Normal,Normal^
@@ -7035,8 +7082,6 @@ Lovi	Discord:<@!95650095034273792>
 		Hypno Shiny: Normal
 		Kangaskhan Shiny: Happy,Normal
 		Mr_Mime Shiny: Normal
-		Gyarados Shiny: Normal
-		Gyarados Shiny Female: Normal
 		Omanyte Shiny: Normal
 		Articuno Shiny: Normal
 		Dratini Shiny: Normal
@@ -7356,6 +7401,15 @@ FissionCube	Discord:<@!203640888558223361>	Contact:https://twewyfinalmix.tumblr.
 	Sprite:
 		Slowpoke Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 
+Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/michael12dz
+	Sprite:
+		Gengar Mega: Idle,Walk,Sleep,Hurt,Charge,Twirl,Swing,Double,Rotate
+		Darmanitan: Idle,Walk,Hurt,Attack,Emit,Rotate,Hop,QuickStrike
+		Yamask: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Golisopod: "
+		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+		Raging_Bolt: Idle,Swing,Double,Rotate
+
 Axcel	Discord:<@!662304890143375391>
 	Portrait:
 		Poliwag: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
@@ -7661,9 +7715,12 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Entei Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ho_Oh Alternate: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Taillow: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
+		Taillow Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Flygon: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Crawdaunt: Angry,Crying,Determined,Dizzy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Crawdaunt Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
+		Walrein Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Walrein Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Latias Mega: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Latias Mega Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Latios Mega: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -7681,7 +7738,8 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Garchomp Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Yanmega: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Yanmega Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Yanmega Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Pansage: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Pansage Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Drilbur: Worried
 		Drilbur Shiny: Worried
 		Cofagrigus: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
@@ -7696,6 +7754,8 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Accelgor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
 		Zygarde Complete: Normal
 		Zygarde Complete Shiny: Normal
+		Volcanion: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Volcanion Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Brionne: Sad,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Brionne Shiny: Sad,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Oranguru: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -7717,6 +7777,9 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Cyclizar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Flamigo: Normal
 		Flamigo Shiny: Normal
+		Ogerpon Wellspring_Mask: Normal,Normal^
+		Ogerpon Hearthflame_Mask: Normal,Normal^
+		Ogerpon Cornerstone_Mask: Normal,Normal^
 		Iron_Crown: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Iron_Crown Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 	Sprite:
@@ -7921,7 +7984,7 @@ Chesyon	Discord:<@!178935491867967490>	Contact:https://linktr.ee/chesyon
 		Fletchinder: Normal
 		Fletchinder Shiny: Normal
 	Sprite:
-		Cradily Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Cradily Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Trevenant Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Crabominable Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Toxtricity Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop
@@ -8044,6 +8107,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Venipede: "
 		Krokorok: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Krookodile: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Darmanitan: Idle,Walk,Hurt,Attack,Rumble,Emit,Rotate,Hop,QuickStrike
 		Scraggy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Sigilyph: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Elgyem: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -8068,9 +8132,11 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Pyukumuku: Idle,Walk,Hurt,Attack,Charge,Shoot,Rumble,Emit,Swing,Double,Rotate,Hop
 		Pyukumuku Shiny: Idle,Walk,Hurt,Attack,Charge,Shoot,Rumble,Emit,Swing,Double,Rotate,Hop
 		Melmetal: Punch
+		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,FlapAround,Swing,Double,Rotate,Hop
+		Corviknight: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover
 		Silicobra: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Sandaconda: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
-		Arctozolt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
+		Arctozolt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Duraludon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Kleavor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,Swing,Double,Rotate,Hop,QuickStrike
 		Ursaluna Bloodmoon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -8084,9 +8150,12 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Orthworm: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Lick,Twirl,Swing,Double,Rotate,Hop
 		Slither_Wing: Idle,Rotate
 		Iron_Hands: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Arctibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
 		Baxcalibur: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+		Dipplin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Appeal,Swing,Double,Rotate,Hop
 		Archaludon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+		Hydrapple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,SpAttack,Swing,Double,Rotate,Hop
 
 pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 	Sprite:
@@ -8097,12 +8166,14 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Skeledirge: "
 		Scovillain: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Swing,Double,Rotate,Hop
 		Iron_Hands: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Arctibax: "
 		Baxcalibur: "
 		Ogerpon Teal_Mask: "
 		Ogerpon Wellspring_Mask: "
 		Ogerpon Hearthflame_Mask: "
 		Ogerpon Cornerstone_Mask: "
+		Raging_Bolt: Idle,Sleep,Swing,Double,Rotate
 
 metalbear	Contact:<@468408733433593856>
 	Sprite:
@@ -8131,11 +8202,6 @@ Noivern	Discord:<@!150809243816165377>	Contact:https://twitter.com/notarealnoive
 	Sprite:
 		Sandile: Idle,Walk,Swing,Double,Rotate
 
-Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/michael12dz
-	Sprite:
-		Yamask: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-		Golisopod: "
-
 cyboy_bit	Discord:<@!810524028871114762>
 	Portrait:
 		Trubbish: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1,Special2,Special3
@@ -8161,7 +8227,6 @@ Ichor	Discord:<@!779213287576436746>
 		Keldeo: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Keldeo Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Zygarde 10 Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Volcanion Shiny: Normal
 		Oricorio Shiny: Normal
 		Cosmoem Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Arctovish Shiny: Normal
@@ -8308,7 +8373,8 @@ programmedsleepstate	Discord:<@!224476380790915072>	Contact:<@224476380790915072
 Dejais	Discord:<@!375676609283358722>	Contact:<@375676609283358722>
 	Sprite:
 		Volcanion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Swing,Double,Rotate,Hop
-		Marshadow Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Swing,Double,Rotate,Hop
+		Marshadow Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Marshadow Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 avalancheman	Discord:<@!783493257506062387>	Contact:milesbehemoth@gmail.com
 	Sprite:
@@ -8345,6 +8411,10 @@ DavKriz	Discord:<@!642311628557385738>
 		Wattrel: "
 		Kilowattrel: "
 		Orthworm: "
+
+Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
+	Sprite:
+		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 
 RacieB	Discord:<@!227594271794921472>	Contact:https://twitter.com/RacieBeep
 	Portrait:
@@ -8433,7 +8503,7 @@ Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 		Poliwrath Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lairon: Joyous,Happy,Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lairon Shiny: Joyous,Happy,Normal,Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Castform Snowy: Happy,Pain
+		Castform Snowy: Happy,Pain,Sad,Angry,Dizzy,Worried
 
 Novie	Discord:<@!229363481852379136>	Contact:<https://twitter.com/themagolord>
 	Portrait:
@@ -8489,8 +8559,10 @@ Cloudy	Discord:<@!356187016054046723>	Contact:https://twitter.com/cloudyskys1769
 		Lairon Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Teary-Eyed,Dizzy
 		Dusclops Shiny: Joyous,Crying,Shouting,Dizzy,Determined
 		Ambipom Female: Happy,Surprised
+		Skorupi: Joyous,Crying,Sigh,Shouting,Stunned,Dizzy
 		Froakie: Stunned
 		Froakie Shiny: Sad,Crying,Stunned,Teary-Eyed,Dizzy,Special0
+		Rookidee: Inspired
 		Sandaconda Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Terapagos: Inspired
 
@@ -8700,7 +8772,6 @@ EzerArt	Contact:https://twitter.com/EzerArt_
 		Eldegoss: Normal
 		Chewtle: Normal
 		Drednaw: Normal
-		Boltund: Normal
 		Flapple: Normal
 		Cramorant: "
 		Toxel: Normal
@@ -8801,6 +8872,10 @@ VersuS/CelestialDrago	Discord:<@!305445863235518464>
 	Portrait:
 		Scyther Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Scyther Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+
+Coksi	Discord:<@!143644728230019072>	Contact:https://coksi.carrd.co/
+	Portrait:
+		Electabuzz: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 
 JemDragons	Discord:<@!408301000445788180>	Contact:https://twitter.com/JemDragons?s=09
 	Portrait:
@@ -9050,6 +9125,10 @@ Discord:<@!523152081805115403>
 		Deoxys Defense: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Deoxys Speed: Angry,Crying,Determined,Determined^,Dizzy,Happy,Inspired,Inspired^,Joyous,Joyous^,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried,Worried^
 
+Semilia	Discord:<@!235878133499297793>	Contact:https://twitter.com/SemiSemily
+	Portrait:
+		Empoleon Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
 lovefulpup	Discord:<@!280870537209839627>
 	Portrait:
 		Shinx Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -9120,9 +9199,6 @@ LegendaryPhoenix	Discord:<@!573283158674505749>
 mucrush	Contact:https://www.deviantart.com/mucrush
 	Portrait:
 		Stoutland: Normal
-		Pansage: Normal
-		Simisage: Normal
-		Simisear: Normal,Normal^
 		Munna: Normal
 		Blitzle: Normal
 		Swoobat: Normal
@@ -9130,7 +9206,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Palpitoad: Normal
 		Throh: Normal
 		Sawk: Normal
-		Darmanitan Zen: Normal
 		Carracosta: Normal
 		Archen: Normal
 		Archeops: Normal
@@ -9272,6 +9347,10 @@ distress	Discord:<@!177489961275097088>	Contact:artstation.com/distress
 		Meowscarada: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meowscarada Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Roaring_Moon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
+Cocosquid.	Discord:<@!1133042779782647808>	Contact:<@1133042779782647808>
+	Portrait:
+		Iron_Treads: Happy
 
 Rustnuttie	Discord:<@!179733726421450752>	Contact:<@179733726421450752>
 	Portrait:
