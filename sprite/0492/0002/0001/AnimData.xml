@@ -221,6 +221,64 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-
+		<Anim>
+			<Name>Special0</Name>
+			<Index>13</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>24</FrameHeight>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Pose</Name>
+			<Index>14</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>24</FrameHeight>
+			<Durations>
+				<Duration>30</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>
