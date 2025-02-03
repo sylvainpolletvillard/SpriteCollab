@@ -216,6 +216,21 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-		
+		<Anim>
+			<Name>Special6</Name>
+			<Index>22</Index>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>24</FrameHeight>
+			<Durations>
+				<Duration>10</Duration>
+				<Duration>10</Duration>
+				<Duration>10</Duration>
+				<Duration>10</Duration>
+				<Duration>10</Duration>
+				<Duration>10</Duration>
+				<Duration>10</Duration>
+				<Duration>10</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

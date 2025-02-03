@@ -175,6 +175,45 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-
+		<Anim>
+			<Name>DigIn</Name>
+			<Index>14</Index>
+			<FrameWidth>72</FrameWidth>
+			<FrameHeight>64</FrameHeight>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Special0</Name>
+			<Index>16</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>24</FrameHeight>
+			<Durations>
+				<Duration>8</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>8</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

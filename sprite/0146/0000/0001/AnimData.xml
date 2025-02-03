@@ -242,6 +242,21 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-
+		<Anim>
+			<Name>Pose</Name>
+			<Index>16</Index>
+			<FrameWidth>72</FrameWidth>
+			<FrameHeight>80</FrameHeight>
+			<Durations>
+				<Duration>10</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>10</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>
