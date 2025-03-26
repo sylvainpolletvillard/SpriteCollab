@@ -179,7 +179,7 @@ ShyStarryRain	<@!576876006636519434>
 	<@!136619914512433152>	
 SkeleJ64	<@!291732421332697098>	<@291732421332697098>
 	<@!319728945920475137>	
-Garbage	<@!350050109741858829>	https://twitter.com/Just_Tr4sh
+G	<@!350050109741858829>	https://twitter.com/Just_Tr4sh
 LightBlueBlaze	<@!283045864509800468>	LightBlueBlaze@gmail.com
 Dejais	<@!375676609283358722>	<@375676609283358722>
 Jelly	<@!402702516866908160>	https://www.deviantart.com/drjellystone
@@ -263,3 +263,8 @@ SpectrumStars	<@!1038631037284126741>	https://x.com/numbertism
 FalafelPorpoise	<@!338821717365489665>	https://bsky.app/profile/falafel-porpoise.bsky.social
 Riodise	<@!311963515563016193>	<@311963515563016193>
 rhys	<@!1327394227922931878>	https://bsky.app/profile/arcanerevelation.bsky.social
+CinderedPhoenix	<@!252249733588975616>	ridiculouslybluecinderblock@gmail.com
+Fingernails	<@!862684221848027156>	https://www.demirramon.com/@Fingernails
+snarbs	<@!188463527089012737>	snarbs.art@gmail.com
+Xrit63	<@!512597386279780354>	Xrit63PMD@outlook.com
+LazerBlitz	<@!585276060136898591>	<@585276060136898591>
