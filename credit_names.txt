@@ -176,7 +176,7 @@ cosmosully	<@!411407718839222272>	https://twitter.com/cosmosully
 	<@!413387711152390145>	
 ShyStarryRain	<@!576876006636519434>	
 	<@!136619914512433152>	
-SkeleJ64	<@!291732421332697098>	<@291732421332697098>
+SkeleSpider	<@!291732421332697098>	https://linktr.ee/skelespider
 	<@!319728945920475137>	
 G〜	<@!350050109741858829>	https://bsky.app/profile/justtr4sh.pmd.social
 LightBlueBlaze	<@!283045864509800468>	LightBlueBlaze@gmail.com
@@ -211,7 +211,7 @@ dariosparks	<@!399615223083958283>
 anomalocaris	<@!275075929905168384>	https://twitter.com/radiodonta_lord
 ErrantWitch	<@!124232530651119618>	
 mothbeanie	<@!168876782575943680>	https://twitter.com/mothbeanie
-Deeshura	<@!157796074457661440>	https://github.com/Deeshura
+Deeshura	<@!157796074457661440>	https://bsky.app/profile/deeshura.bsky.social
 Ginnie	<@!722542425196724289>	
 silverfox88	<@!476409795239477248>	https://twitter.com/realsilverfox88
 Hemlock	<@!165623433458089984>	https://baphomets.neocities.org/
@@ -259,7 +259,7 @@ Coksi	<@!143644728230019072>	https://coksi.carrd.co/
 CeleryGuy	<@!966056976217935872>	https://celeryguy.tumblr.com
 VOID	<@!224988883182551040>	<@224988883182551040>
 Kawaiitron	<@!412938965713158144>	<@412938965713158144>
-	<@!713792248348672040>	
+mosscoated	<@!713792248348672040>	<@713792248348672040>
 SpectrumStars	<@!1038631037284126741>	https://x.com/numbertism
 FalafelPorpoise	<@!338821717365489665>	https://bsky.app/profile/falafel-porpoise.bsky.social
 Riodise	<@!311963515563016193>	<@311963515563016193>
@@ -287,4 +287,5 @@ lumiscosity	<@!243013084510289921>	https://github.com/lumiscosity
 <SKREE>	<@!350778126919401485>	<https://www.tumblr.com/blog/skree-like-a-pterodactyl>
 Felis-Licht	<@!273594331577974785>	https://www.deviantart.com/felis-licht/
 Ajifer	<@!1042498956082544640>	<@1042498956082544640>
-	<@!225949425292410880>	
+Johanne2	<@!225949425292410880>	https://github.com/Johanne2
+Kevin	<@!479925530129596426>	<@479925530129596426>
